@@ -50,7 +50,7 @@ import nodeDockMainnet from './nodes/dock-mainnet.png';
 import nodeDockTestnet from './nodes/dock-testnet.png';
 import nodeDotMog from './nodes/dotmog.svg';
 import nodeEave from './nodes/eave.svg';
-import nodeEdgeware from './nodes/edgeware-circle.svg';
+import nodeEdgeware from './nodes/edgeware.png';
 import nodeEncointerNotee from './nodes/encointer-notee.svg';
 import nodeEncointerTeeproxy from './nodes/encointer-teeproxy.svg';
 import nodeGalital from './nodes/galital-logo.png';
